@@ -1,0 +1,44 @@
+<resources>
+    <string name="tab_text_1">Zain</string>
+    <string name="tab_text_2">Sudani</string>
+    <string name="tab_text_3">MTN</string>
+    <string name="dataa">Please Enter Data !</string>
+    <string name="entrcod">Please Enter Your Code</string>
+    <string name="sh">Share</string>
+    <string name="co">View Code</string>
+    <string name="edt">Edit</string>
+    <string name="log">Log</string>
+    <string name="ab">About</string>
+    <string name="kud">Your Code is :</string>
+    <string name="ok">Ok</string>
+    <string name="nwcod">Please Enter Your new Code !</string>
+    <string name="sv">Save</string>
+    <string name="savco">Your Code Was Saved</string>
+    <string name="dat">Please Enter Your Code !</string>
+    <string name="abou">About us</string>
+    <string name="thank">Thanks</string>
+    <string name="gr">Please Granted</string>
+    <string name="Zain">Zain</string>
+    <string name="Sudani">Sudani</string>
+    <string name="Mtn">MTN</string>
+    <string name="baln">Your Balance</string>
+    <string name="entrno">Enter no</string>
+    <string name="entramount">Enter amount</string>
+
+    <string name="nom">Please enter your number !</string>
+    <string name="amnt">Please enteryour amount !</string>
+    <string name="app_name">Tahwilk</string>
+    <string name="learn">This app let you send balance easy _ fast between all sudan network</string>
+    <!--string name="title_activity_about">About</string-->
+    <string name="nooooo">Number</string>
+    <string name="Amo">Amount</string>
+    <string name="Ta7">Communication Services</string>
+    <string name="transf">Transformation</string>
+    <string name="commun">Communication</string>
+    <string name="intr">Internet</string>
+    <string name="htu">How to use</string>
+    <string name="choscomany">Chose your company</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <!--string name="hello_blank_fragment">Hello blank fragment</string-->
+</resources>

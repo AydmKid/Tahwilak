@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tekno.test">
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.REORDER_TASKS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".PrimeryScreen"
+            android:label="@string/Ta7"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Zainlogs"
+            android:label="@string/log"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".boutapp"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Mtnlogs"
+            android:label="@string/log"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Sudanilogs"
+            android:label="@string/log"
+            android:screenOrientation="portrait" />
+        <activity android:name=".Main2Activity" />
+        <activity android:name=".BarcodeReaderActivity" />
+        <activity android:name=".basicscreen" />
+        <activity android:name=".splash_screen" />
+        <activity
+            android:name=".Choseone"
+            android:label="@string/choscomany" />
+        <activity android:name=".Calls" />
+        <activity android:name=".ActiveService"></activity>
+    </application>
+
+</manifest>

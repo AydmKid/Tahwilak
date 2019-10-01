@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_text_1">زين</string>
+    <string name="tab_text_2">سوداني</string>
+    <string name="tab_text_3">ام تي ان</string>
+    <string name="entrcod">"الرجاء ادخال الرقم السري "</string>
+    <string name="dataa">"الرجاء ادخال بيانات "</string>
+    <string name="sh">مشاركة</string>
+    <string name="co">عرض الرقم السري</string>
+    <string name="edt">تعديل</string>
+    <string name="log">السجل</string>
+    <string name="ab">"حول التطبيق "</string>
+    <string name="kud">رقمك السري هو :</string>
+    <string name="ok">موافق</string>
+    <string name="nwcod">الرجاء ادخال الرقم السري الجديد</string>
+    <string name="sv">حفظ</string>
+    <string name="savco">نم حفظ الرقم السري</string>
+    <string name="dat">ادخل رفمك السري من فضلك</string>
+    <string name="abou">حول التطبيق</string>
+    <string name="thank">"شكرا "</string>
+    <string name="gr">امنح الصلاحيات</string>
+    <string name="Zain">زين</string>
+    <string name="Sudani">سوداني</string>
+    <string name="Mtn">ام تي ان</string>
+    <string name="baln">رصيدك الحالي</string>
+    <string name="entrno">ادخل الرقم</string>
+    <string name="entramount">ادخل الملبغ</string>
+    <!--string name="numbrr">ادخل الملبغ</string-->
+    <string name="nom">عفوا ادخل رقمك !</string>
+    <string name="amnt">عفوا ادخل المبلغ !</string>
+    <string name="app_name">تحويلك</string>
+    <string name="learn">"يتيح لك هذا التطبيق امكانية تحويل الرصيد بسهولة وسرعة بالاضافة الى سجل للرصيد المحول "</string>
+    <string name="nooooo">الرقم</string>
+    <string name="Amo">المبلغ</string>
+    <string name="Ta7">خدمات الاتصالات</string>
+    <string name="transf">خدمات التحويل</string>
+    <string name="commun">خدمات الاتصالات</string>
+    <string name="intr">خدمات الانترنت</string>
+    <string name="htu">كيفية الاستخدام</string>
+    <string name="choscomany">اختار الشركة</string>
+
+</resources>
